@@ -1,0 +1,5 @@
+Current Directory --> cd
+Folders in the Current Directory --> dir 
+To move into folders --> cd Folder_Name
+To go uo a directory --> cd ..
+To clear screen --> cls
