@@ -1,0 +1,19 @@
+Run 1 ==>
+(base) D:\Courses\Python\Errors and Exception Handling>pylint simple1.py
+************* Module simple1
+simple1.py:4:0: C0304: Final newline missing (missing-final-newline)
+simple1.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+simple1.py:1:0: C0103: Constant name "a" doesn't conform to UPPER_CASE naming style (invalid-name)
+simple1.py:2:0: C0103: Constant name "b" doesn't conform to UPPER_CASE naming style (invalid-name)
+simple1.py:4:6: E0602: Undefined variable 'B' (undefined-variable)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+
+
+
+Run 2 ==>
+(base) D:\Courses\Python\Errors and Exception Handling>pylint simple1ne.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 0.00/10, +10.00)
